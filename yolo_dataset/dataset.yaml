@@ -1,0 +1,6 @@
+names:
+- logo
+nc: 1
+path: //192.168.1.11/Digital Marketing-Graphic/25.WEBSITE/get website/yolo_dataset
+train: images/train
+val: images/val
